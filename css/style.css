@@ -7469,7 +7469,7 @@ header .logo-component a {
         line-height: 1.45;
         margin-left: 0;
         padding: 70px 0 50px;
-        padding: 4.375rem 0 3.125rem;
+        padding: 1.375rem 0 3.125rem;
         height: 159px
     }
 }
@@ -11204,7 +11204,7 @@ header .footer-logo-component a {
         line-height: 1.45;
         margin-left: 0;
         padding: 70px 0 50px;
-        padding: 4.375rem 0 3.125rem;
+        padding: 1.375rem 0 3.125rem;
         height: 159px
     }
 }
