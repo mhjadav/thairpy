@@ -5768,7 +5768,7 @@ th {
 @font-face {
     font-family: 'icomoon';
     src: url('hyatt-spas/font-icons/icomoon.eot?562ny0');
-    src: url('hyatt-spas/font-icons/icomoon.eot?#iefix562ny0') format('embedded-opentype'), url('/css/fonts/icomoon.ttf?562ny0') format('truetype'), url('hyatt-spas/font-icons/icomoon.woff?562ny0') format('woff'), url('hyatt-spas/font-icons/icomoon.svg?562ny0#icomoon') format('svg');
+    src: url('hyatt-spas/font-icons/icomoon.eot?#iefix562ny0') format('embedded-opentype'), url('/css/fonts/icomoon.ttf?562ny0') format('truetype'), url('/css/fonts/icomoon.woff?562ny0') format('woff'), url('hyatt-spas/font-icons/icomoon.svg?562ny0#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -5890,7 +5890,7 @@ th {
 @font-face {
     font-family: 'flexslider-icon';
     src: url('hyatt-spas/css/global/css/fonts/flexslider-icon.eot');
-    src: url('hyatt-spas/css/global/css/fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('hyatt-spas/css/global/css/fonts/flexslider-icon.woff') format('woff'), url('hyatt-spas/css/global/css/fonts/flexslider-icon.ttf') format('truetype'), url('hyatt-spas/css/global/css/fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+    src: url('hyatt-spas/css/global/css/fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('/css/fonts/flexslider-icon.woff') format('woff'), url('/css/fonts/flexslider-icon.ttf') format('truetype'), url('hyatt-spas/css/global/css/fonts/flexslider-icon.svg#flexslider-icon') format('svg');
     font-weight: normal;
     font-style: normal;
 }

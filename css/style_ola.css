@@ -2304,7 +2304,7 @@ a.list-group-item-danger.active:hover {
 @font-face {
     font-family: icomoon;
     src: url(olapic/css/global/fonts/flexslider-icon.eot);
-    src: url(olapic/css/global/fonts/flexslider-icon.eot?#iefix) format('embedded-opentype'), url(olapic/css/global/fonts/flexslider-icon.woff) format('woff'), url(olapic/css/global/fonts/flexslider-icon.ttf) format('truetype'), url(olapic/css/global/fonts/flexslider-icon.svg#flexslider-icon) format('svg');
+    src: url(olapic/css/global/fonts/flexslider-icon.eot?#iefix) format('embedded-opentype'), url(/css/fonts/flexslider-icon.woff) format('woff'), url(/css/fonts/flexslider-icon.ttf) format('truetype'), url(olapic/css/global/fonts/flexslider-icon.svg#flexslider-icon) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -3603,7 +3603,7 @@ table {
 @font-face {
     font-family: olapic-icomoon;
     src: url(olapic/css/font-icons/icomoon.eot?kub9t9);
-    src: url(olapic/css/font-icons/icomoon.eot?#iefixkub9t9) format('embedded-opentype'), url(olapic/css/font-icons/icomoon.ttf?kub9t9) format('truetype'), url(olapic/css/font-icons/icomoon.woff?kub9t9) format('woff'), url(olapic/css/font-icons/icomoon.svg?kub9t9#icomoon) format('svg');
+    src: url(olapic/css/font-icons/icomoon.eot?#iefixkub9t9) format('embedded-opentype'), url(/css/fonts/icomoon.ttf?kub9t9) format('truetype'), url(/css/fonts/icomoon.woff?kub9t9) format('woff'), url(olapic/css/font-icons/icomoon.svg?kub9t9#icomoon) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -5672,7 +5672,7 @@ only screen and (min-device-pixel-ratio:1.5) {
 @font-face {
     font-family: icomoon-olapic;
     src: url(css/fonts/flexslider-icon.eot);
-    src: url(css/fonts/flexslider-icon.eot?#iefix) format('embedded-opentype'), url(css/fonts/flexslider-icon.woff) format('woff'), url(olapic/css/fonts/flexslider-icon.ttf) format('truetype'), url(olapic/css/fonts/flexslider-icon.svg#flexslider-icon) format('svg');
+    src: url(css/fonts/flexslider-icon.eot?#iefix) format('embedded-opentype'), url(css/fonts/flexslider-icon.woff) format('woff'), url(/css/fonts/flexslider-icon.ttf) format('truetype'), url(olapic/css/fonts/flexslider-icon.svg#flexslider-icon) format('svg');
     font-weight: 400;
     font-style: normal;
 }
@@ -5686,7 +5686,7 @@ only screen and (min-device-pixel-ratio:1.5) {
 @font-face {
     font-family: icomoon;
     src: url(olapic/css/font-icons/icomoon.eot?kub9t9);
-    src: url(olapic/css/font-icons/icomoon.eot?#iefixkub9t9) format('embedded-opentype'), url(olapic/css/font-icons/icomoon.ttf?kub9t9) format('truetype'), url(olapic/css/font-icons/icomoon.woff?kub9t9) format('woff'), url(olapic/css/font-icons/icomoon.svg?kub9t9#icomoon) format('svg');
+    src: url(olapic/css/font-icons/icomoon.eot?#iefixkub9t9) format('embedded-opentype'), url(/css/fonts/icomoon.ttf?kub9t9) format('truetype'), url(/css/fonts/icomoon.woff?kub9t9) format('woff'), url(olapic/css/font-icons/icomoon.svg?kub9t9#icomoon) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -5694,7 +5694,7 @@ only screen and (min-device-pixel-ratio:1.5) {
 @font-face {
     font-family: olapic-icomoon;
     src: url(olapic/css/font-icons/icomoon.eot?kub9t9);
-    src: url(olapic/css/font-icons/icomoon.eot?#iefixkub9t9) format('embedded-opentype'), url(olapic/css/font-icons/icomoon.ttf?kub9t9) format('truetype'), url(olapic/css/font-icons/icomoon.woff?kub9t9) format('woff'), url(olapic/css/font-icons/icomoon.svg?kub9t9#icomoon) format('svg');
+    src: url(olapic/css/font-icons/icomoon.eot?#iefixkub9t9) format('embedded-opentype'), url(/css/fonts/icomoon.ttf?kub9t9) format('truetype'), url(/css/fonts/icomoon.woff?kub9t9) format('woff'), url(olapic/css/font-icons/icomoon.svg?kub9t9#icomoon) format('svg');
     font-weight: 400;
     font-style: normal
 }
