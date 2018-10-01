@@ -72,12 +72,12 @@ pre {
 }
 
 a {
-    color: #337ab7
+    color: #ffffff
 }
 
 a:focus,
 a:hover {
-    color: #23527c;
+    color: #fff200;
     text-decoration: underline
 }
 
@@ -1481,7 +1481,7 @@ tbody.collapse.in {
 }
 
 a.list-group-item {
-    color: #555
+    color: #ffffff
 }
 
 a.list-group-item .list-group-item-heading {
@@ -1491,7 +1491,7 @@ a.list-group-item .list-group-item-heading {
 a.list-group-item:focus,
 a.list-group-item:hover {
     text-decoration: none;
-    color: #555;
+    color: #ffffff;
     background-color: #f5f5f5
 }
 
@@ -4010,7 +4010,7 @@ body {
     font-family: 'Avenir LT W01_55 Roman';
     font-weight: 400;
     line-height: 1.45;
-    color: #6c6764
+    color: #ffffff
 }
 
 main {
@@ -4427,7 +4427,7 @@ form h2 {
 }
 
 .progress:before {
-    background: #555
+    background: #ffffff
 }
 
 .progress:after {
