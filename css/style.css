@@ -518,7 +518,7 @@ pre code {
         width: 960px
     }
     #page{
-        width: 75rem;
+        width: 100vw;
         margin: 0 auto;
     }
 }
@@ -528,7 +528,7 @@ pre code {
         width: 1160px
     }
     #page{
-        width: 75rem;
+        width: 100vw;
         margin: 0 auto;
     }
 }
