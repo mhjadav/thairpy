@@ -4006,7 +4006,7 @@ only screen and (min-resolution:1.25dppx) {
 body {
     height: 100%;
     font-size: 16px;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-family: 'Avenir LT W01_55 Roman';
     font-weight: 400;
     line-height: 1.45;
