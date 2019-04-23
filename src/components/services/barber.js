@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Banner from "../banner";
 import BannerBg from '../../static/images/BARBER.jpg';
 
-
 const priceList = [
     {
         name: 'Beard trim',
