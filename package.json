@@ -11,6 +11,7 @@
     "react-router-sitemap": "^1.1.5",
     "react-scripts": "1.1.4"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
